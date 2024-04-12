@@ -1,0 +1,145 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:07.110
+Hello and welcome to Machine Learning with Python.
+In this course you'll learn how Machine Learning
+
+2
+00:00:07.110 --> 00:00:13.920
+is used in many key fields and industries.
+For example, in the healthcare industry, data
+
+3
+00:00:13.920 --> 00:00:19.380
+scientists use Machine Learning to predict whether
+a human cell that is believed to be at risk of
+
+4
+00:00:19.380 --> 00:00:26.460
+developing cancer is either benign or malignant.
+As such, Machine Learning can play a key role
+
+5
+00:00:26.460 --> 00:00:33.330
+in determining a person's health and welfare.
+You'll also learn about the value of decision
+
+6
+00:00:33.330 --> 00:00:39.810
+trees and how building a good decision tree from
+historical data helps doctors to prescribe the
+
+7
+00:00:39.810 --> 00:00:46.650
+proper medicine for each of their patients.You'll
+learn how bankers use Machine Learning to make
+
+8
+00:00:46.650 --> 00:00:53.490
+decisions on whether to approve loan applications;
+and you will learn how to use Machine Learning to
+
+9
+00:00:53.490 --> 00:00:59.910
+do bank customer segmentation, where it is
+not usually easy to run for huge volumes of
+
+10
+00:00:59.910 --> 00:01:08.220
+varied data. In this course you'll see how machine
+learning helps websites such as YouTube, Amazon,
+
+11
+00:01:08.220 --> 00:01:14.550
+or Netflix develop recommendations to their
+customers about various products or services,
+
+12
+00:01:14.550 --> 00:01:21.450
+such as which movies they might be interested in
+going to see or which books to buy. There is so
+
+13
+00:01:21.450 --> 00:01:27.450
+much that you can do with Machine Learning.
+Here you'll learn how to use popular Python
+
+14
+00:01:27.450 --> 00:01:34.890
+libraries to build your model. For example, given
+an automobile data set, we can use the scikit-learn
+
+15
+00:01:34.890 --> 00:01:42.900
+library to estimate the co2 emission of cars
+using their engine size or cylinders. We can
+
+16
+00:01:42.900 --> 00:01:49.650
+even predict what the co2 emissions will be for a
+car that hasn't even been produced yet, and we'll
+
+17
+00:01:49.650 --> 00:01:56.340
+see how the telecommunications industries can
+predict customer churn.You can run and practice
+
+18
+00:01:56.340 --> 00:02:02.940
+the code of all these samples using the built-in
+lab environment in this course, you don't have to
+
+19
+00:02:02.940 --> 00:02:10.050
+install anything to your computer or do anything
+on the cloud. All you have to do is click a button
+
+20
+00:02:10.050 --> 00:02:16.020
+to start the lab environment in your browser.
+The code for the samples is already written
+
+21
+00:02:16.020 --> 00:02:23.340
+using Python language in Jupyter notebooks and
+you can run it to see the results or change it to
+
+22
+00:02:23.340 --> 00:02:31.440
+understand the algorithms better. So what will you
+be able to achieve by taking this course? Well,
+
+23
+00:02:31.440 --> 00:02:38.370
+by putting in just a few hours a week over the
+next few weeks you'll get new skills to add to
+
+24
+00:02:38.370 --> 00:02:46.680
+your resume such as regression, classification,
+clustering, scikit-learn, and psy PI. You'll
+
+25
+00:02:46.680 --> 00:02:52.050
+also get new projects that you can add to
+your portfolio including cancer detection,
+
+26
+00:02:52.050 --> 00:02:59.370
+predicting economic trends, predicting customer
+churn, recommendation engines, and many more.
+
+27
+00:02:59.370 --> 00:03:07.080
+You'll also get a certificate in Machine Learning
+to prove your competency and share it anywhere
+
+28
+00:03:07.080 --> 00:03:14.400
+you like online or offline such as LinkedIn
+profiles and social media, so let's get started.
+
+29
+00:03:14.400 --> 00:03:20.169
+[music]
